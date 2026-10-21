@@ -1,0 +1,44 @@
+<ul>
+    <li id='uniqueLink1'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/526Qh92D/icoweb.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='https://www.muhalfinramadhan.web.id' rel='noopener' target='_blank'>Web Blog</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+    <li id='uniqueLink2'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/Zn4y2rWL/icofaceb.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='https://www.facebook.com' rel='noopener' target='_blank'>Facebook</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+    <li id='uniqueLink3'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/L6yZQg2z/icoyt.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='https://www.youtube.com/@SenandikaNanAmerta?sub_confirmation=1' rel='noopener' target='_blank'>Channel oficial YouTube</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+    <li id='uniqueLink4'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/VsWtMHhZ/icotlg.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='https://t.me/+IrkgAspSlSVkYjY1' rel='noopener' target='_blank'>Grub Telegram</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+    <li id='uniqueLink5'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/pXVFBJbW/icowsp.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='#' rel='noopener' target='_blank'>WhatsApp Grub</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+    <li id='uniqueLink6'>
+    <div class='link_list_stick'>
+    <div class='link_list_image'><img alt='' class='lazyload' data-src='https://i.postimg.cc/FRW7W2Qh/shopping.png' height='48' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='48'/></div>
+    <div class='link_list_title'><a href='https://www.linkedin.com/in/alpinjolala/' rel='noopener' target='_blank'>Linkedin</a></div>
+    <div class='link_list_more'><button aria-label='More Button' class='more_button biosphere_button small fab rounded l' type='button'><svg fill='currentColor' viewbox='0 0 24 24'><path d='M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z'/></path></svg></button></div>
+    </div>
+    </li>
+</ul>
